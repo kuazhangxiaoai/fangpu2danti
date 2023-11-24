@@ -1,0 +1,11 @@
+{
+  "dantijianzhu": "./data/1107/dongchengdanti.shp",
+  "fangpujianzhu": "./data/1107/dongchengfangpu.shp",
+  "savepath": "E:/workspace/python_workspace/fangpu2danti/data/1107/exp/result.shp",
+  "iou_threshold": 0.8,
+  "log": "./log.txt",
+  "codec": "GBK",
+  "dantijianzhu_id": "单体唯一编",
+  "fangpujianzhu_id": "UUID",
+  "processByPage": true
+}
